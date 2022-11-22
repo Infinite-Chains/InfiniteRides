@@ -1,1 +1,1 @@
-# InfiniteRides
+# InfiniteRides dApp
